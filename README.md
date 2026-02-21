@@ -42,6 +42,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=394MazenEhab&theme=tokyonight&hide_border=true)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/lDBLQ1I9y1?theme=dark&font=Fira%20Code&ext=heatmap)
+
 </div>
 
 ---
